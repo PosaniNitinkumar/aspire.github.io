@@ -1,0 +1,27 @@
+.whyChooseUsSection {
+  width: 80%;
+  margin: auto;
+  margin-top: 50px;
+}
+.whyChooseUsSection_box {
+  display: flex;
+  align-items: center;
+  margin: 0;
+}
+.whyChooseUsSection_box_content {
+  background-color: white;
+  box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
+  border-radius: 15px;
+  min-height: 250px;
+  min-width: 250px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  margin: 0 2rem 0 0;
+}
+.whyChooseUsSection_box_content_image {
+  min-width: 300px;
+  min-height: 300px;
+  border-radius: 15px;
+}
